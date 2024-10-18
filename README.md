@@ -16,8 +16,8 @@ This tool provides an in-depth analysis of files to help identify potential malw
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/b17w1z4rd/malware-analysis-tool.git
-   cd malware-analysis-tool
+   git clone https://github.com/14mb1v45h/cyberspace060.git
+   cd cyberspace060
 3. Build the tool :
    **go build**
 4. Run the tool with the following command:
